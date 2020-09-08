@@ -48,14 +48,14 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 05------------------
-me
-my favorite color is black
-august 28, 2003
+ethan januszewski
+no
+favorite color is black
+i live on the computer
+;alkfjda
 da
-test
-
-
-
+pootis
+league of legends players are a bunch of weebs
 
 ------------------Student 06------------------
 
