@@ -1,6 +1,6 @@
 '''
 Modify the starter code below to create your own cool drawing
-and then Pull Request it to your instructor. Make sure you
+and then Pull Request it to your instructor. Make sure yo4
 keep the last two lines of code. Your first and last name must be written on your art.
 The last line keeps the window open until you click to close.
 
@@ -17,7 +17,10 @@ merc.color("#FF4500")
 merc.penup()
 merc.setpos(75,-120)
 merc.pendown()
-merc.circle(125,90)
+merc.circle(150,90)
+merc.goto(145,35)
+merc.circle(70,-90)
+merc.goto(75,-120)
 merc.penup()
 merc.setpos(200,-300)
 merc.pendown()
