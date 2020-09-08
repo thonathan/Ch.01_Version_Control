@@ -56,7 +56,7 @@ i live on the computer
 da
 pootis
 league of legends players are a bunch of weebs
-
+yes
 ------------------Student 06------------------
 
 
