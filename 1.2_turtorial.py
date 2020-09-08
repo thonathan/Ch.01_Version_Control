@@ -12,19 +12,12 @@ merc=turtle.Turtle()
 screen=turtle.Screen() # makes a screen object
 screen.bgcolor('black') # colors the screen
 merc.pensize(3) # width of pen line
-merc.speed(10)  # speed of drawing. Go fast to not waste time.
+merc.speed(3)  # speed of drawing. Go fast to not waste time.
 merc.color("#FF4500")
-merc.circle(100)  #head
 merc.penup()
-merc.setpos(50,185) #right ear
+merc.setpos(75,-120)
 merc.pendown()
-merc.goto(200,210)
-merc.goto(88,145)
-merc.penup()
-merc.setpos(-50,185)  #left ear
-merc.pendown()
-merc.goto(-200,210)
-merc.goto(-88,145)
+merc.circle(125,90)
 merc.penup()
 merc.setpos(200,-300)
 merc.pendown()
