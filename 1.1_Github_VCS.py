@@ -51,12 +51,12 @@ Tell me some interesting facts about yourself.
 ethan januszewski
 no
 favorite color is black
-
-
-
-
-
-
+i live on the computer
+;alkfjda
+da
+pootis
+league of legends players are a bunch of weebs
+yes
 ------------------Student 06------------------
 
 
