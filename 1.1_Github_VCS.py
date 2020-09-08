@@ -50,7 +50,7 @@ Tell me some interesting facts about yourself.
 ------------------Student 05------------------
 ethan januszewski
 no
-
+favorite color is black
 
 
 
